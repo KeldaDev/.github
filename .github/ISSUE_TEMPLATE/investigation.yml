@@ -1,6 +1,7 @@
 name: "Investigation"
 description: "Request research or technical investigation."
 type: "Investigation"
+projects: ["KeldaDev/1"]
 body:
   - type: textarea
     id: question
