@@ -1,6 +1,7 @@
 name: "Feature request"
 description: "Suggest new functionality for Kelda."
 type: "Feature"
+projects: ["KeldaDev/1"]
 body:
   - type: textarea
     id: problem
