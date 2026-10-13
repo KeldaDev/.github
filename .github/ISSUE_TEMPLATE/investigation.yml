@@ -1,0 +1,25 @@
+name: "Investigation"
+description: "Request research or technical investigation."
+type: "Investigation"
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: "Question or problem"
+      description: "What needs to be investigated?"
+    validations:
+      required: true
+  - type: textarea
+    id: background
+    attributes:
+      label: "Background"
+      description: "Known facts, links, logs or previous attempts."
+    validations:
+      required: false
+  - type: textarea
+    id: outcome
+    attributes:
+      label: "Desired outcome"
+      description: "What answer or decision should this investigation produce?"
+    validations:
+      required: false
