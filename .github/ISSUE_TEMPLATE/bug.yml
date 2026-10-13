@@ -1,0 +1,46 @@
+name: "Bug report"
+description: "Report something that is not working as expected."
+type: "Bug"
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "What is the problem?"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: "Steps to reproduce"
+      description: "How can we reproduce it? Include an example if possible."
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected behaviour"
+      description: "What should happen?"
+    validations:
+      required: false
+  - type: textarea
+    id: actual
+    attributes:
+      label: "Actual behaviour"
+      description: "What happens instead?"
+    validations:
+      required: false
+  - type: input
+    id: environment
+    attributes:
+      label: "Environment and version"
+      description: "SDK, plugin or app version; operating system or runtime, where relevant."
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs or screenshots"
+      description: "Add relevant logs, screenshots or links. Remove secrets and personal data."
+    validations:
+      required: false
