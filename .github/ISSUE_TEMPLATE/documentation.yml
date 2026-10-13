@@ -1,7 +1,6 @@
 name: "Documentation"
 description: "Report missing, incorrect or unclear documentation."
 type: "Documentation"
-projects: ["KeldaDev/1"]
 body:
   - type: input
     id: page
