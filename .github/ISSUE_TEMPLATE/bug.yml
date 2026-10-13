@@ -1,7 +1,6 @@
 name: "Bug report"
 description: "Report something that is not working as expected."
 type: "Bug"
-projects: ["KeldaDev/1"]
 body:
   - type: textarea
     id: description
