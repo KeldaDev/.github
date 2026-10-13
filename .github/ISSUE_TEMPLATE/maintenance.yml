@@ -1,6 +1,7 @@
 name: "Maintenance"
 description: "Track dependencies, upkeep, refactoring or infrastructure work."
 type: "Maintenance"
+projects: ["KeldaDev/1"]
 body:
   - type: textarea
     id: work
