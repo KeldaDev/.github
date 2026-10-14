@@ -1,28 +1,32 @@
-# Kelda
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeldaDev/.github/main/profile/assets/kelda-lockup-reversed.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeldaDev/.github/main/profile/assets/kelda-lockup.svg">
+  <img alt="Kelda" src="https://raw.githubusercontent.com/KeldaDev/.github/main/profile/assets/kelda-lockup.svg" width="300">
+</picture>
 
-**Revenue attribution and analytics for online businesses.**
+## Analytics that follows the money.
 
-Kelda helps businesses understand where their revenue comes from, how customers discover and interact with their products, and which marketing activities actually drive sales.
+**See which marketing channels bring paying customers, not just visitors.**
 
-Built for SaaS products, ecommerce stores, and other online businesses.
+Kelda brings traffic, conversions and revenue together, so online businesses can trace sales back to the marketing channels that earned them. Built for SaaS products, ecommerce stores and other online businesses.
+
+[Website](https://kelda.so) · [X](https://x.com/KeldaDev)
 
 ### What we're building
 
-- **Revenue Attribution** — Understand which channels, campaigns, and customer interactions contribute to revenue.
-- **Analytics & Reporting** — Explore acquisition, customer behaviour, funnels, retention, and conversions.
-- **Integrations** — Connect payment providers, ecommerce platforms, and marketing tools.
-- **Developer Tools** — SDKs, CLI, and plugins for integrating Kelda into applications and websites.
+- **Revenue attribution** — Understand which channels, campaigns and customer interactions contribute to revenue.
+- **Analytics and reporting** — Explore acquisition, customer behaviour, funnels, retention and conversions.
+- **Integrations** — Connect payment providers, ecommerce platforms and marketing tools.
+- **Developer tools** — SDKs, a CLI and plugins for integrating Kelda into applications and websites.
 
-### Open Source
+### Open source
 
-This organisation is home to Kelda's developer ecosystem, including SDKs, integrations, plugins, and supporting tools.
+This organisation is home to Kelda's developer ecosystem, including SDKs, integrations, plugins and supporting tools.
 
 Repositories will become publicly available as they're ready.
 
-### Feedback & Issues
+### Feedback and issues
 
-We welcome bug reports, feature requests, and documentation feedback.
-
-Please use GitHub Issues in the relevant repository to report problems or suggest improvements.
+We welcome bug reports, feature requests and documentation feedback. Please use GitHub Issues in the relevant repository to report problems or suggest improvements.
 
 Our public repositories are maintained as code mirrors. **We do not accept external pull requests.**
